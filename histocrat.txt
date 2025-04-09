@@ -1,0 +1,9 @@
+Channel Analysis: @TheHistocrat
+Total Videos:     56
+Total Duration:   95 hours 39 minutes
+
+Storage Estimates:
+MP3 (128 kbps):   5.13 GB
+MP3 (320 kbps):   12.83 GB
+MP4 (1080p):      200.44 GB (5 Mbps average)
+MP4 (4K):         1002.18 GB (25 Mbps average)
